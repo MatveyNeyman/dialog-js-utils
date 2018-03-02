@@ -1,0 +1,1778 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/core/JSONSchema.js",
+    "content": "/*\n * Copyright 2017 dialog LLC <info@dlg.im>\n * @flow\n */\n\nimport forIn from 'lodash/forIn';\nimport isPlainObject from 'lodash/isPlainObject';\n\nexport type JSONSchemaProperty = {\n  type: 'string' | 'number' | 'integer' | 'boolean',\n  title: string\n};\n\nexport type JSONSchema = {\n  type: 'object',\n  properties: {\n    [name: string]: JSONSchemaProperty\n  }\n};\n\nexport type JSONValue = {\n  [key: string]: mixed\n};\n\nexport function parseJSONSchema(text: string): JSONSchema {\n  const object = JSON.parse(text);\n\n  if (!isPlainObject(object)) {\n    throw new Error('Schema is not a plain object');\n  }\n\n  if (!isPlainObject(object.properties)) {\n    throw new Error('Schema properties is not a plain object');\n  }\n\n  const properties = {};\n\n  forIn(object.properties, (value: mixed, key: string) => {\n    if (typeof value !== 'object' || !value) {\n      throw new Error(`Schema property \"${key}\" is not a plain object`);\n    }\n\n    const { type, title } = value;\n    if (type !== 'string' && type !== 'number' && type !== 'integer' && type !== 'boolean') {\n      throw new Error(`Schema property \"${key}\" has unsupported type`);\n    }\n\n    if (typeof title !== 'string') {\n      throw new Error(`Schema property \"${key}\" title is not a string\"`);\n    }\n\n    properties[key] = { type, title };\n  });\n\n  return {\n    type: 'object',\n    properties\n  };\n}\n\nexport function safelyParseJSONSchema(text: string, onError?: (error: Error) => void): ?JSONSchema {\n  try {\n    return parseJSONSchema(text);\n  } catch (e) {\n    if (onError) {\n      onError(e);\n    }\n\n    return null;\n  }\n}\n\nexport function safelyParseJSON(text: string, onError?: (error: Error) => void): ?JSONValue {\n  try {\n    return JSON.parse(text);\n  } catch (e) {\n    if (onError) {\n      onError(e);\n    }\n\n    return null;\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/core/JSONSchema.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "parseJSONSchema",
+    "memberof": "src/core/JSONSchema.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/JSONSchema.js~parseJSONSchema",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/core/JSONSchema.js",
+    "importStyle": "{parseJSONSchema}",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [
+      {
+        "name": "text",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "{\"type\": string, \"properties\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "function",
+    "name": "safelyParseJSONSchema",
+    "memberof": "src/core/JSONSchema.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/JSONSchema.js~safelyParseJSONSchema",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/core/JSONSchema.js",
+    "importStyle": "{safelyParseJSONSchema}",
+    "description": null,
+    "lineNumber": 45,
+    "undocument": true,
+    "params": [
+      {
+        "name": "text",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "onError",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "safelyParseJSON",
+    "memberof": "src/core/JSONSchema.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/JSONSchema.js~safelyParseJSON",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/core/JSONSchema.js",
+    "importStyle": "{safelyParseJSON}",
+    "description": null,
+    "lineNumber": 57,
+    "undocument": true,
+    "params": [
+      {
+        "name": "text",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "onError",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/core/__tests__/calculateCursor.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n */\n\nimport { calculateCursor } from '../calculateCursor';\n\ndescribe('calculateCursor', () => {\n  const min = 0;\n  const max = 2;\n\n  it('should correctly calculate cursor', () => {\n    expect(calculateCursor({ min, max, next: min - 1 })).toBe(min);\n    expect(calculateCursor({ min, max, next: min })).toBe(min);\n    expect(calculateCursor({ min, max, next: 1 })).toBe(1);\n    expect(calculateCursor({ min, max, next: max })).toBe(max);\n    expect(calculateCursor({ min, max, next: max + 1 })).toBe(max);\n  });\n\n  it('should correctly calculate looped cursor', () => {\n    const looped = true;\n    expect(calculateCursor({ min, max, looped, next: min - 1 })).toBe(max);\n    expect(calculateCursor({ min, max, looped, next: min })).toBe(min);\n    expect(calculateCursor({ min, max, looped, next: 1 })).toBe(1);\n    expect(calculateCursor({ min, max, looped, next: max })).toBe(max);\n    expect(calculateCursor({ min, max, looped, next: max + 1 })).toBe(min);\n  });\n});\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/core/__tests__/calculateCursor.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "file",
+    "name": "src/core/__tests__/filterByQuery.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n * @flow\n */\n\nimport { filterByQuery } from '../filterByQuery';\n\ndescribe('filterByQuery', () => {\n  const users = [{ id: 1, name: 'Alexey' }, { id: 2, name: 'Lexy' }];\n\n  it('should sort result', () => {\n    expect(\n      filterByQuery('le', users, (user) => user.name)\n    ).toEqual(\n      [{ id: 2, name: 'Lexy' }, { id: 1, name: 'Alexey' }]\n    );\n  });\n});\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/core/__tests__/filterByQuery.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/core/__tests__/mapNotNull.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n */\n\nimport { mapNotNull } from '../mapNotNull';\n\ndescribe('mapNotNull', () => {\n  it('should correctly filter values', () => {\n    expect(mapNotNull([1, null, 2], (val) => val)).toEqual([1, 2]);\n  });\n});\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/core/__tests__/mapNotNull.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "file",
+    "name": "src/core/calculateCursor.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n * @flow\n */\n\nexport type Options = {\n  min?: number,\n  max: number,\n  next: number,\n  looped?: boolean\n};\n\n/**\n * Calculates next cursor position based on options.\n *\n * @param {Object} options - The options\n * @param {number} [options.min] - Minimum cursor value\n * @param {number} options.max - Maximum cursor value\n * @param {number} options.next - Next expected cursor value\n * @param {boolean} [options.looped] - Should be true if cursor is looped\n *\n * @returns {number} Next actual cursor value\n */\nexport function calculateCursor(options: Options): number {\n  const { min = 0, max, next, looped = false } = options;\n  if (next < min) {\n    return looped ? max : min;\n  }\n\n  if (next > max) {\n    return looped ? min : max;\n  }\n\n  return next;\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/core/calculateCursor.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 56,
+    "kind": "function",
+    "name": "calculateCursor",
+    "memberof": "src/core/calculateCursor.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/calculateCursor.js~calculateCursor",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/core/calculateCursor.js",
+    "importStyle": "{calculateCursor}",
+    "description": "Calculates next cursor position based on options.",
+    "lineNumber": 14,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{number} Next actual cursor value"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": "The options"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.min",
+        "description": "Minimum cursor value"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.max",
+        "description": "Maximum cursor value"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options.next",
+        "description": "Next expected cursor value"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "options.looped",
+        "description": "Should be true if cursor is looped"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "Next actual cursor value"
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "src/core/filterByQuery.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n * @flow\n */\n\nimport type { IndexedIterable } from 'immutable';\n\nexport type Filterable<T> = Array<T> | IndexedIterable<T>;\n\nfunction normalize(text) {\n  return text.toLowerCase()\n    .replace(/ё/g, 'е');\n}\n\n/**\n * Filter any collection by query.\n */\nexport function filterByQuery<T, C: Filterable<T>>(\n  query: string,\n  items: C,\n  getValue: (item: T) => string\n): C {\n  const normalQuery = normalize(query);\n\n  return items.map((item) => {\n    const value = normalize(getValue(item));\n\n    return {\n      item,\n      score: value.indexOf(normalQuery)\n    };\n  }).filter(\n    ({ score }) => score !== -1\n  ).sort(\n    (a, b) => a.score - b.score\n  ).map(\n    ({ item }) => item\n  );\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/core/filterByQuery.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "function",
+    "name": "normalize",
+    "memberof": "src/core/filterByQuery.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/filterByQuery.js~normalize",
+    "access": "public",
+    "export": false,
+    "importPath": "@dlghq/dialog-utils/src/core/filterByQuery.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "text",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "filterByQuery",
+    "memberof": "src/core/filterByQuery.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/filterByQuery.js~filterByQuery",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/core/filterByQuery.js",
+    "importStyle": "{filterByQuery}",
+    "description": "Filter any collection by query.",
+    "lineNumber": 13,
+    "params": [
+      {
+        "name": "query",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "items",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "getValue",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "src/core/formatTime.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n * @flow\n */\n\nfunction pad(num: number): string {\n  return num < 10 ? '0' + num : String(num);\n}\n\n/**\n * Format time in seconds to human-readable format.\n */\nexport function formatTime(time: number): string {\n  const minutes = Math.floor(time / 60);\n  const seconds = time - (minutes * 60);\n\n  return pad(minutes) + ':' + pad(seconds);\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/core/formatTime.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "pad",
+    "memberof": "src/core/formatTime.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/formatTime.js~pad",
+    "access": "public",
+    "export": false,
+    "importPath": "@dlghq/dialog-utils/src/core/formatTime.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "num",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 62,
+    "kind": "function",
+    "name": "formatTime",
+    "memberof": "src/core/formatTime.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/formatTime.js~formatTime",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/core/formatTime.js",
+    "importStyle": "{formatTime}",
+    "description": "Format time in seconds to human-readable format.",
+    "lineNumber": 13,
+    "params": [
+      {
+        "name": "time",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "file",
+    "name": "src/core/getReadableFileSize.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n * @flow\n */\n\nconst thresh = 1024;\nconst units = [\n  'kB',\n  'MB',\n  'GB',\n  'TB',\n  'PB',\n  'EB',\n  'ZB',\n  'YB'\n];\n\n/**\n * Convert bytes to human-readable string.\n */\nexport function getReadableFileSize(bytes: number): string {\n  if (bytes < thresh) {\n    return bytes + ' B';\n  }\n\n  const exp = Math.min(\n    units.length,\n    Math.floor(\n      Math.log(bytes) / Math.log(thresh)\n    )\n  );\n\n  const result = bytes / Math.pow(2, exp * 10);\n\n  return result.toFixed(1) + ' ' + units[exp - 1];\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/core/getReadableFileSize.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 64,
+    "kind": "variable",
+    "name": "thresh",
+    "memberof": "src/core/getReadableFileSize.js",
+    "static": true,
+    "longname": "src/core/getReadableFileSize.js~thresh",
+    "access": "public",
+    "export": false,
+    "importPath": "@dlghq/dialog-utils/src/core/getReadableFileSize.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "number"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 65,
+    "kind": "variable",
+    "name": "units",
+    "memberof": "src/core/getReadableFileSize.js",
+    "static": true,
+    "longname": "src/core/getReadableFileSize.js~units",
+    "access": "public",
+    "export": false,
+    "importPath": "@dlghq/dialog-utils/src/core/getReadableFileSize.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string[]"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 66,
+    "kind": "function",
+    "name": "getReadableFileSize",
+    "memberof": "src/core/getReadableFileSize.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/getReadableFileSize.js~getReadableFileSize",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/core/getReadableFileSize.js",
+    "importStyle": "{getReadableFileSize}",
+    "description": "Convert bytes to human-readable string.",
+    "lineNumber": 12,
+    "params": [
+      {
+        "name": "bytes",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 67,
+    "kind": "file",
+    "name": "src/core/mapNotNull.js",
+    "content": "/*\n * Copyright 2018 dialog LLC <info@dlg.im>\n * @flow\n */\n\n/**\n * Maps collection using mapper and filters result if it't null.\n */\nexport function mapNotNull<T, R>(array: Array<T>, mapper: (item: T, index: number) => ?R): R[] {\n  const result: R[] = [];\n  for (let i = 0; i < array.length; i++) {\n    const value: ?R = mapper(array[i], i);\n    if (value !== null && typeof value !== 'undefined') {\n      result.push(value);\n    }\n  }\n\n  return result;\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/core/mapNotNull.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 68,
+    "kind": "function",
+    "name": "mapNotNull",
+    "memberof": "src/core/mapNotNull.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/mapNotNull.js~mapNotNull",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/core/mapNotNull.js",
+    "importStyle": "{mapNotNull}",
+    "description": "Maps collection using mapper and filters result if it't null.",
+    "lineNumber": 9,
+    "params": [
+      {
+        "name": "array",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "mapper",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "file",
+    "name": "src/dom/fileToBase64.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n * @flow\n */\n\n/**\n * Converts Blob to base64 string.\n *\n * @param {Blob} file\n * @param {Function} callback\n */\nexport function fileToBase64(file: Blob, callback: (dataUri: string) => void): void {\n  const reader = new FileReader();\n  reader.onload = (event) => callback(event.target.result);\n  reader.readAsDataURL(file);\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/dom/fileToBase64.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "fileToBase64",
+    "memberof": "src/dom/fileToBase64.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/dom/fileToBase64.js~fileToBase64",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/dom/fileToBase64.js",
+    "importStyle": "{fileToBase64}",
+    "description": "Converts Blob to base64 string.",
+    "lineNumber": 12,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Blob"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "file",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "callback",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 71,
+    "kind": "file",
+    "name": "src/dom/hasSelection.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n * @flow\n */\n\n/**\n * Checks if document has selection\n */\nexport function hasSelection(): boolean {\n  if (typeof document !== 'undefined') {\n    const selection = document.getSelection();\n\n    return Boolean(selection && selection.toString());\n  }\n\n  return false;\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/dom/hasSelection.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 72,
+    "kind": "function",
+    "name": "hasSelection",
+    "memberof": "src/dom/hasSelection.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/dom/hasSelection.js~hasSelection",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/dom/hasSelection.js",
+    "importStyle": "{hasSelection}",
+    "description": "Checks if document has selection",
+    "lineNumber": 9,
+    "params": [],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "file",
+    "name": "src/dom/listen.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n */\n\nimport { isPassiveListenerSupports } from '../support/isPassiveListenerSupports';\n\n/**\n * Adds DOM event listener.\n *\n * @param {Element} target\n * @param {string} eventType - A string representing the event type to listen for.\n * @param {EventListener} listener - The function that receives a notification.\n * @param {Object} options - An options object that specifies characteristics about the event listener\n * @param {boolean} [options.capture=false] - Indicating that events will be dispatched\n * before being dispatched to any EventTarget it in the DOM tree.\n * @param {boolean} [options.passive=false] - Indicating that the listener will never call `event.preventDefault()`.\n * @returns {Listener}\n */\nexport function listen(target, eventType, listener, options) {\n  const { passive = false, capture = false } = options;\n  const opts = passive && isPassiveListenerSupports() ? { passive, capture } : capture;\n\n  target.addEventListener(eventType, listener, opts);\n\n  return {\n    remove() {\n      target.removeEventListener(eventType, listener, opts);\n    }\n  };\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/dom/listen.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "listen",
+    "memberof": "src/dom/listen.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/dom/listen.js~listen",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/dom/listen.js",
+    "importStyle": "{listen}",
+    "description": "Adds DOM event listener.",
+    "lineNumber": 19,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Listener}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Element"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "target",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "eventType",
+        "description": "A string representing the event type to listen for."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "EventListener"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "listener",
+        "description": "The function that receives a notification."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "options",
+        "description": "An options object that specifies characteristics about the event listener"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "false",
+        "defaultRaw": false,
+        "name": "options.capture",
+        "description": "Indicating that events will be dispatched\nbefore being dispatched to any EventTarget it in the DOM tree."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "false",
+        "defaultRaw": false,
+        "name": "options.passive",
+        "description": "Indicating that the listener will never call `event.preventDefault()`."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Listener"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "file",
+    "name": "src/dom/selectFiles.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n * @flow\n */\n\n/**\n * Open standard browser file-select window.\n *\n * @param {Function} callback\n * @param {boolean} [multiple]\n * @param {string} [accept]\n */\nexport function selectFiles(\n  callback: (files: File[]) => void,\n  multiple?: boolean,\n  accept?: string\n) {\n  const input = document.createElement('input');\n  input.type = 'file';\n  input.multiple = Boolean(multiple);\n  if (accept) {\n    input.accept = accept;\n  }\n\n  input.onchange = () => {\n    callback(Array.from(input.files));\n\n    input.onchange = null;\n  };\n\n  input.click();\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/dom/selectFiles.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "selectFiles",
+    "memberof": "src/dom/selectFiles.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/dom/selectFiles.js~selectFiles",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/dom/selectFiles.js",
+    "importStyle": "{selectFiles}",
+    "description": "Open standard browser file-select window.",
+    "lineNumber": 13,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "callback",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "multiple",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "accept",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 77,
+    "kind": "file",
+    "name": "src/dom/selectText.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n */\n\n/**\n * Select text inside element.\n *\n * @param {Element} element\n */\nexport function selectText(element: HTMLElement): void {\n  if (document.body.createTextRange) {\n    const range = document.body.createTextRange();\n    range.moveToElementText(element);\n    range.select();\n  } else if (window.getSelection) {\n    const selection = window.getSelection();\n    const range = document.createRange();\n    range.selectNodeContents(element);\n    selection.removeAllRanges();\n    selection.addRange(range);\n  }\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/dom/selectText.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 78,
+    "kind": "function",
+    "name": "selectText",
+    "memberof": "src/dom/selectText.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/dom/selectText.js~selectText",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/dom/selectText.js",
+    "importStyle": "{selectText}",
+    "description": "Select text inside element.",
+    "lineNumber": 10,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Element"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "element",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 79,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n * @flow\n */\n\nimport Field, { type FieldAction } from './redux/field';\nimport type { EmptyAction } from './redux/action';\n\n/**\n * Core\n */\nexport { mapNotNull } from './core/mapNotNull';\nexport { calculateCursor } from './core/calculateCursor';\nexport { filterByQuery } from './core/filterByQuery';\nexport { formatTime } from './core/formatTime';\nexport { getReadableFileSize } from './core/getReadableFileSize';\nexport { parseJSONSchema, safelyParseJSONSchema, safelyParseJSON } from './core/JSONSchema';\nexport type { JSONSchemaProperty, JSONSchema, JSONValue } from './core/JSONSchema';\n\n/**\n * DOM\n */\nexport { listen } from './dom/listen';\nexport { fileToBase64 } from './dom/fileToBase64';\nexport { selectFiles } from './dom/selectFiles';\nexport { selectText } from './dom/selectText';\nexport { hasSelection } from './dom/hasSelection';\n\n/**\n * Support\n */\nexport { isElectron } from './support/isElectron';\n\n/**\n * Redux\n */\nexport { Field };\nexport type { EmptyAction, FieldAction };\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 80,
+    "kind": "file",
+    "name": "src/redux/action.js",
+    "content": "/*\n * Copyright 2017 dialog LLC <info@dlg.im>\n * @flow\n */\n\nexport type EmptyAction<Type: string> = {\n  type: Type\n};\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/redux/action.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 81,
+    "kind": "file",
+    "name": "src/redux/field.js",
+    "content": "/*\n * Copyright 2017 dialog LLC <info@dlg.im>\n * @flow\n */\n\nexport type FieldAction<Type: string, State, Context> = {\n  type: Type,\n  payload: Field<State>,\n  meta: {\n    context: Context\n  }\n};\n\ntype DispatchOptions<Type: string, State, Context> = {\n  type: Type,\n  action: Promise<State>,\n  context: Context,\n  dispatch: (action: FieldAction<Type, State, Context>) => any,\n  initialState: State\n};\n\nclass Field<State> {\n  value: State;\n  error: ?Error;\n  pending: boolean;\n\n  static dispatch<Type: string, Context>({\n    type,\n    action,\n    context,\n    dispatch,\n    initialState\n  }: DispatchOptions<Type, State, Context>): void {\n    dispatch({\n      type,\n      payload: new Field(initialState, null, true),\n      meta: { context }\n    });\n\n    action.then(\n      (value) => {\n        dispatch({\n          type,\n          payload: new Field(value, null, false),\n          meta: { context }\n        });\n      },\n      (error) => {\n        dispatch({\n          type,\n          payload: new Field(initialState, error, false),\n          meta: { context }\n        });\n      }\n    );\n  }\n\n  static create<Result>({\n    value,\n    error,\n    pending\n  }: {\n    value: Result,\n    error?: ?Error,\n    pending?: boolean\n  }): Field<Result> {\n    return new Field(value, error, pending);\n  }\n\n  constructor(value: State, error: ?Error = null, pending: boolean = false) {\n    this.value = value;\n    this.error = error;\n    this.pending = pending;\n  }\n\n  map<Result>(\n    mapper: (value: State, error: ?Error, pending: boolean) => Result\n  ): Field<Result> {\n    return new Field(\n      mapper(this.value, this.error, this.pending),\n      this.error,\n      this.pending\n    );\n  }\n\n  flatMap<Result>(\n    mapper: (value: State, error: ?Error, pending: boolean) => Field<Result>\n  ): Field<Result> {\n    return mapper(this.value, this.error, this.pending);\n  }\n\n  render<Result>(\n    mapper: (value: State, error: ?Error, pending: boolean) => Result\n  ): Result {\n    return mapper(this.value, this.error, this.pending);\n  }\n}\n\nexport default Field;\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/redux/field.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 82,
+    "kind": "class",
+    "name": "Field",
+    "memberof": "src/redux/field.js",
+    "static": true,
+    "longname": "src/redux/field.js~Field",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/redux/field.js",
+    "importStyle": "Field",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 83,
+    "kind": "method",
+    "name": "dispatch",
+    "memberof": "src/redux/field.js~Field",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/redux/field.js~Field.dispatch",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [
+      {
+        "name": "objectPattern",
+        "types": [
+          "{\"type\": *, \"action\": *, \"context\": *, \"dispatch\": *, \"initialState\": *}"
+        ],
+        "defaultRaw": {
+          "type": null,
+          "action": null,
+          "context": null,
+          "dispatch": null,
+          "initialState": null
+        },
+        "defaultValue": "{\"type\":null,\"action\":null,\"context\":null,\"dispatch\":null,\"initialState\":null}"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 84,
+    "kind": "method",
+    "name": "create",
+    "memberof": "src/redux/field.js~Field",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/redux/field.js~Field.create",
+    "access": "public",
+    "description": null,
+    "lineNumber": 36,
+    "undocument": true,
+    "params": [
+      {
+        "name": "objectPattern",
+        "types": [
+          "{\"value\": *, \"error\": *, \"pending\": *}"
+        ],
+        "defaultRaw": {
+          "value": null,
+          "error": null,
+          "pending": null
+        },
+        "defaultValue": "{\"value\":null,\"error\":null,\"pending\":null}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/redux/field.js~Field",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/redux/field.js~Field#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 44,
+    "undocument": true
+  },
+  {
+    "__docId__": 86,
+    "kind": "member",
+    "name": "value",
+    "memberof": "src/redux/field.js~Field",
+    "static": false,
+    "longname": "src/redux/field.js~Field#value",
+    "access": "public",
+    "description": null,
+    "lineNumber": 45,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "member",
+    "name": "error",
+    "memberof": "src/redux/field.js~Field",
+    "static": false,
+    "longname": "src/redux/field.js~Field#error",
+    "access": "public",
+    "description": null,
+    "lineNumber": 46,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 88,
+    "kind": "member",
+    "name": "pending",
+    "memberof": "src/redux/field.js~Field",
+    "static": false,
+    "longname": "src/redux/field.js~Field#pending",
+    "access": "public",
+    "description": null,
+    "lineNumber": 47,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 89,
+    "kind": "method",
+    "name": "map",
+    "memberof": "src/redux/field.js~Field",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/redux/field.js~Field#map",
+    "access": "public",
+    "description": null,
+    "lineNumber": 50,
+    "undocument": true,
+    "params": [
+      {
+        "name": "mapper",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 90,
+    "kind": "method",
+    "name": "flatMap",
+    "memberof": "src/redux/field.js~Field",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/redux/field.js~Field#flatMap",
+    "access": "public",
+    "description": null,
+    "lineNumber": 54,
+    "undocument": true,
+    "params": [
+      {
+        "name": "mapper",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 91,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/redux/field.js~Field",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/redux/field.js~Field#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 58,
+    "undocument": true,
+    "params": [
+      {
+        "name": "mapper",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "file",
+    "name": "src/support/isElectron.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n * @flow\n */\n\nconst _isElectron = typeof window.require === 'function';\n\n/**\n * True if app running in Electron.\n *\n * @returns {boolean}\n */\nexport function isElectron(): boolean {\n  return _isElectron;\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/support/isElectron.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 93,
+    "kind": "variable",
+    "name": "_isElectron",
+    "memberof": "src/support/isElectron.js",
+    "static": true,
+    "longname": "src/support/isElectron.js~_isElectron",
+    "access": "private",
+    "export": false,
+    "importPath": "@dlghq/dialog-utils/src/support/isElectron.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 94,
+    "kind": "function",
+    "name": "isElectron",
+    "memberof": "src/support/isElectron.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/support/isElectron.js~isElectron",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/support/isElectron.js",
+    "importStyle": "{isElectron}",
+    "description": "True if app running in Electron.",
+    "lineNumber": 13,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{boolean}"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 95,
+    "kind": "file",
+    "name": "src/support/isPassiveListenerSupports.js",
+    "content": "/*\n * Copyright 2018 Dialog LLC <info@dlg.im>\n */\n\nlet isSupports = false;\n\ntry {\n  const opts = Object.defineProperty({}, 'passive', {\n    get() {\n      isSupports = true;\n\n      return true;\n    }\n  });\n\n  window.addEventListener('test', null, opts);\n} catch (e) {\n  // do nothing\n}\n\n/**\n * Checks if browser supports passive event listeners.\n *\n * @returns {boolean}\n */\nexport function isPassiveListenerSupports(): boolean {\n  return isSupports;\n}\n",
+    "static": true,
+    "longname": "/Users/nkt/Projects/dialog/web/utils/src/support/isPassiveListenerSupports.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 96,
+    "kind": "variable",
+    "name": "isSupports",
+    "memberof": "src/support/isPassiveListenerSupports.js",
+    "static": true,
+    "longname": "src/support/isPassiveListenerSupports.js~isSupports",
+    "access": "public",
+    "export": false,
+    "importPath": "@dlghq/dialog-utils/src/support/isPassiveListenerSupports.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "boolean"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 97,
+    "kind": "function",
+    "name": "isPassiveListenerSupports",
+    "memberof": "src/support/isPassiveListenerSupports.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/support/isPassiveListenerSupports.js~isPassiveListenerSupports",
+    "access": "public",
+    "export": true,
+    "importPath": "@dlghq/dialog-utils/src/support/isPassiveListenerSupports.js",
+    "importStyle": "{isPassiveListenerSupports}",
+    "description": "Checks if browser supports passive event listeners.",
+    "lineNumber": 26,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{boolean}"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "kind": "index",
+    "content": "Dialog JavaScript utils\n=======================\n\nA collection of utility libraries used by Dialog projects.\n\nInstallation\n------------\n\n```\nnpm install --save @dlghq/dialog-utils\n```\n\nUsage\n-----\n\n```js\nimport { isElectron } from '@dlghq/dialog-utils';\n\nconsole.log('isElectron: ', isElectron());\n```\n\nRedux\n-----\n\n```js\nimport { Field } from '@dlghq/dialog-utils';\n\nField.create({ value: '' })\n  .map((value) => 'foo')\n  .flatMap((value, error, pending) => new Field(value, error, true))\n  .render((value, error, pending) => <FieldView value={value} pending={pending} />);\n\nfunction addContact(uid: number) {\n  return ({ dispatch, messenger }) => {\n    Field.dispatch({\n      dispatch,\n      type: '@@dialog/USER_CONTACT_ADD',\n      context: uid,\n      action: messenger.contacts.add(uid),\n      initialState: null\n    });\n  };\n}\n\ndispatch(addContact(123));\n// { type: '@@dialog/USER_CONTACT_ADD', payload: { value: null, error: null, pending: true }, meta: { context: 123 } }\n// then\n// { type: '@@dialog/USER_CONTACT_ADD', payload: { value: <response>, error: null, pending: false }, meta: { context: 123 } }\n// or\n// { type: '@@dialog/USER_CONTACT_ADD', payload: { value: null, error: <error>, pending: false }, meta: { context: 123 } }\n\n```\n\nLicense\n-------\n[Apache-2.0](LICENSE)\n",
+    "longname": "/Users/nkt/Projects/dialog/web/utils/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@dlghq/dialog-utils\",\n  \"version\": \"0.9.0\",\n  \"description\": \"A collection of utility libraries used by Dialog projects.\",\n  \"main\": \"src/index.js\",\n  \"files\": [\n    \"src\",\n    \"lib\"\n  ],\n  \"scripts\": {\n    \"pretest\": \"eslint src/ && flow check\",\n    \"test\": \"jest\",\n    \"predocs\": \"rimraf docs/\",\n    \"docs\": \"esdoc -c esdoc.json\",\n    \"postdocs\": \"gh-pages-deploy\",\n    \"preversion\": \"npm test\",\n    \"postversion\": \"npm run release\",\n    \"postpublish\": \"git push --follow-tags\",\n    \"release\": \"npm publish\",\n    \"postrelease\": \"npm run docs\"\n  },\n  \"repository\": \"git@github.com:dialogs/dialog-js-utils.git\",\n  \"author\": \"Nikita Gusakov <gusnkt@gmail.com>\",\n  \"contributors\": [\n    {\n      \"name\": \"Oleg Shilov\",\n      \"email\": \"me@olegshilov.com\",\n      \"url\": \"https://github.com/olegshilov\"\n    }\n  ],\n  \"license\": \"Apache-2.0\",\n  \"devDependencies\": {\n    \"@dlghq/babel-preset-dialog\": \"3.4.2\",\n    \"@dlghq/eslint-config-dialog\": \"3.3.2\",\n    \"babel-core\": \"6.26.0\",\n    \"esdoc\": \"1.0.4\",\n    \"esdoc-flow-plugin\": \"1.0.0\",\n    \"eslint\": \"4.18.2\",\n    \"flow-bin\": \"0.66.0\",\n    \"gh-pages-deploy\": \"^0.4.2\",\n    \"jest-cli\": \"22.4.2\",\n    \"rimraf\": \"2.6.2\"\n  },\n  \"dependencies\": {\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"immutable\": \"3.8.2\",\n    \"lodash\": \"4.17.5\"\n  },\n  \"gh-pages-deploy\": {\n    \"staticpath\": \"docs\"\n  }\n}\n",
+    "longname": "/Users/nkt/Projects/dialog/web/utils/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

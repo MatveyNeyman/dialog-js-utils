@@ -1,0 +1,103 @@
+{
+  "coverage": "38.7%",
+  "expectCount": 31,
+  "actualCount": 12,
+  "files": {
+    "src/core/JSONSchema.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        9,
+        45,
+        57
+      ]
+    },
+    "src/core/calculateCursor.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/core/filterByQuery.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        6
+      ]
+    },
+    "src/core/formatTime.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        6
+      ]
+    },
+    "src/core/getReadableFileSize.js": {
+      "expectCount": 3,
+      "actualCount": 1,
+      "undocumentLines": [
+        6,
+        7
+      ]
+    },
+    "src/core/mapNotNull.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/dom/fileToBase64.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/dom/hasSelection.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/dom/listen.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/dom/selectFiles.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/dom/selectText.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/redux/field.js": {
+      "expectCount": 10,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        8,
+        36,
+        44,
+        45,
+        46,
+        47,
+        50,
+        54,
+        58
+      ]
+    },
+    "src/support/isElectron.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        6
+      ]
+    },
+    "src/support/isPassiveListenerSupports.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        5
+      ]
+    }
+  }
+}
